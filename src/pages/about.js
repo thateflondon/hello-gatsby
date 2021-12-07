@@ -9,8 +9,8 @@ const AboutPage = () => {
       <Link to="/">Back to Home</Link>
       <p>
         Hi there! I'm the proud creator of this site, which I built with Gatsby.
-        If you want to know a little more about me just click here{" "}
-        <a href="www.jfpl.fr">jfpl.fr</a>
+        If you want to know a little more about me, visit{" "}
+        <a href="www.jfpl.fr">www.jfpl.fr</a>
       </p>
     </main>
   );
